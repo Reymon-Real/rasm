@@ -1,0 +1,1 @@
+# The folders and their contents are obsolete and will be replaced by the make files.
