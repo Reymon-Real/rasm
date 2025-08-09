@@ -73,7 +73,7 @@ cc rasm.c -O2 -lm -march=native -o rasm
 
 #ifndef RDD
 	/* public lib */
-	#include <roudoudou/minilib.h>
+	#include"minilib.h"
 #else
 	/* private dev lib wont be published */
 	#include"../tools/library.h"
@@ -85,9 +85,9 @@ int MAX_OFFSET_ZX0=32640;
 #ifndef NO_3RD_PARTIES
 #define __FILENAME__ "3rd parties"
 /* 3rd parties compression */
-#include <roudoudou/zx7.h>
-#include <roudoudou/lz4.h>
-#include <roudoudou/exomizer.h>
+#include"zx7.h"
+#include"lz4.h"
+#include"exomizer.h"
 
 void zx0_reverse(unsigned char *first, unsigned char *last) {
     unsigned char c;
@@ -189,7 +189,7 @@ E_DEPENDENCIES_MAKE
 };
 
 #define INSIDE_RASM
-#include <roudoudou/rasm.h>
+#include "rasm.h"
 
 
 /*******************************************************************
