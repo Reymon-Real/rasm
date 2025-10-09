@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head lang="es">
+	<meta charset="UTF-8">
+	<meta name="content-language" content="es">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Preámbulo RASM</title>
+	<link rel="stylesheet" type="text/css" href="https://d3g0gp89917ko0.cloudfront.net/v--4b961b7cc327/common--theme/clean/css/style.css" />
+	<style>
+		body {
+			background-position: center 24px;
+		}
+
+		.admins-only,
+		li.admins-only {
+			display: none;
+		}
+	</style>
+</head>
+
+<body id="html-body">
+
+	<div id="container-wrap">
+		<div id="container">
+			<div id="header">
+				
+				<h1><a href="/"><span>RASM</span></a></h1>
+				<h2><span>Documentación del ensamblador RASM</span></h2>
+				
+				<div id="search-top-box" class="form-search">
+					<form id="search-top-box-form" action="dummy" class="input-append">
+						<input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query"
+							value="Buscar en este sitio" />
+						<input class="button btn" type="submit" name="search" value="Buscar" />
+					</form>
+				</div>
+			
+			</div>
+
+			<div id="main-content">
+				<div id="page-title">
+					Preámbulo
+				</div>
+				
+				<div id="page-content">
+					<p>RASM está diseñado para ser de uso fácil con muchas flexibilidad para desarrollo retro</p>
+					
+					<p>El ensamblador puede producir binarios con o sin cabeceras (soporta AMSDOS y HOBETA), imágenes de disquetes para Amstrad CPC, archivos Tape CDT (Amstrad y Spectrum), snapshots (Amstrad y Spectrum), cartuchos clásicos o XPR, y ROMs concatenadas o divididas.
+					</p>
+					
+					<p>Por defecto, nombrará todos los archivos de salida como "rasmoutput" con una extensión para cada tipo de archivo producido. Siéntete libre de usar las muchas opciones de la línea de comandos (como nombrado automático según la fuente).
+					</p>
+					
+					<p>RASM permite múltiples archivos de salida, puede crear varios binarios con la directiva SAVE, crear/modificar disquetes y hacer un cartuchos al mismo tiempo.</p>
+					<p>¡RASM realiza cálculos de punto flotante con redondeo correcto!</p>
+
+					<p>Si eras usuario de un ensamblador antiguo, es posible que necesites revisar algunos puntos del código fuente, en particular las divisiones por 256 para recuperar el byte alto (usa la función HI para eso). ¡No olvides leer la sección de compatibilidad!
+					</p>
+					
+					<p>RASM NO distingue entre mayúsculas y minúsculas, RASM NO depende de la indentación, el ensamblador NO es Cobol. Las limitaciones de los ensambladores antiguos eran técnicas, pero ya no.
+					</p>
+					
+					<p>Nota para los usuarios de Maxam: el símbolo &amp; está reservado para la operación lógica AND. Puede convertir su fuente usando la opción de línea de comandos adecuada.
+					</p>
+				</div>
+			
+			</div>
+
+			<div id="footer">
+				<div class="options">
+					<a href="http://www.wikidot.com/doc">Ayuda</a> |
+					<a href="http://www.wikidot.com/legal:terms-of-service">Términos de servicio</a> |
+					<a href="http://www.wikidot.com/legal:privacy-policy">Política de privacidad</a> |
+					<a href="javascript:;" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Informar un error</a> |
+					<a href="javascript:;" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Reportar contenido ofensivo</a>
+				</div>
+				<p>Hospedado por <a href="http://www.wikidot.com">Wikidot.com</a></p>
+				<div id="license-area" class="license-area">
+					A menos que se indique lo contrario, el contenido de esta página está bajo la licencia <a rel="license"
+						href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0
+						License</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+
+</html>

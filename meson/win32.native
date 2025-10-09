@@ -1,0 +1,21 @@
+[constants]
+
+arch = 'x86_64-w64-mingw32-'
+
+[binaries]
+
+c     = arch + 'gcc'
+strip = arch + 'strip'
+
+[host_machine]
+
+system     = 'windows'
+cpu        = 'i386'
+cpu_family = 'x86'
+endian     = 'little'
+
+[built-in options]
+
+c_std         = 'c99'
+optimization  = 's'
+warning_level = '3'

@@ -1,0 +1,16 @@
+include/lzsa/dictionary.h
+include/lzsa/expand_block_v1.h
+include/lzsa/expand_block_v2.h
+include/lzsa/expand_context.h
+include/lzsa/expand_inmem.h
+include/lzsa/expand_streaming.h
+include/lzsa/format.h
+include/lzsa/frame.h
+include/lzsa/lib.h
+include/lzsa/matchfinder.h
+include/lzsa/shrink_block_v1.h
+include/lzsa/shrink_block_v2.h
+include/lzsa/shrink_context.h
+include/lzsa/shrink_inmem.h
+include/lzsa/shrink_streaming.h
+include/lzsa/stream.h

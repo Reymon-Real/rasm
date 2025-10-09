@@ -1,0 +1,184 @@
+            ____ 
+           |  _ \ __ _ ___ _ __ ___  
+           | |_) / _` / __| '_ ` _ \ 
+           |  _ < (_| \__ \ | | | | |
+           |_| \_\__,_|___/_| |_| |_|
+
+          is using MIT 'expat' license
+" Copyright (c) BERGE Edouard (roudoudou)
+
+
+Si on doit resumer la licence, il est possible
+de faire ce que vous voulez avec le code, meme
+virer mon nom et renommer le logiciel...
+Mais les gens honnetes ne font pas ca? Si?
+
+Permission  is  hereby  granted,  free  of charge,
+to any person obtaining a copy  of  this  software
+and  associated  documentation/source   files   of
+RASM, to deal in the Software without restriction,
+including without limitation the  rights  to  use,
+copy,   modify,   merge,   publish,    distribute,
+sublicense,  and/or  sell  copies of the Software,
+and  to  permit  persons  to  whom the Software is
+furnished  to  do  so,  subject  to  the following
+conditions:
+The above copyright  notice  and  this  permission
+notice   shall   be  included  in  all  copies  or
+substantial portions of the Software.
+The   Software   is   provided  'as is',   without
+warranty   of   any   kind,  express  or  implied,
+including  but  not  limited  to the warranties of
+merchantability,   fitness   for   a    particular
+purpose  and  noninfringement.  In  no event shall
+the  authors  or  copyright  holders be liable for
+any  claim, damages  or other  liability,  whether
+in  an  action  of  contract, tort  or  otherwise,
+arising from,  out of  or in connection  with  the
+software  or  the  use  or  other  dealings in the
+Software. "
+
+
+
+
+******* license for LZ4 cruncher / sources were modified ***********
+
+
+
+BSD 2-Clause License (http://www.opensource.org/licenses/bsd-license.php)
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+'AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+You can contact the author at :
+ - LZ4 homepage : http://www.lz4.org
+ - LZ4 source repository : https://github.com/lz4/lz4
+
+
+
+
+******* license for ZX0 / ZX7 cruncher / sources were modified ***********
+
+
+
+BSD 3-Clause License
+ * (c) Copyright 2012/2021 by Einar Saukas. All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *     * Redistributions of source code must retain the above copyright
+ *       notice, this list of conditions and the following disclaimer.
+ *     * Redistributions in binary form must reproduce the above copyright
+ *       notice, this list of conditions and the following disclaimer in the
+ *       documentation and/or other materials provided with the distribution.
+ *     * The name of its author may not be used to endorse or promote products
+ *       derived from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 'AS IS' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
+ * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+******* license for exomizer cruncher / sources were modified ***********
+
+
+
+ * Copyright (c) 2005 Magnus Lind.
+ *
+ * This software is provided 'as-is', without any express or implied warranty.
+ * In no event will the authors be held liable for any damages arising from
+ * the use of this software.
+ *
+ * Permission is granted to anyone to use this software, alter it and re-
+ * distribute it freely for any non-commercial, non-profit purpose subject to
+ * the following restrictions:
+ *
+ *   1. The origin of this software must not be misrepresented; you must not
+ *   claim that you wrote the original software. If you use this software in a
+ *   product, an acknowledgment in the product documentation would be
+ *   appreciated but is not required.
+ *
+ *   2. Altered source versions must be plainly marked as such, and must not
+ *   be misrepresented as being the original software.
+ *
+ *   3. This notice may not be removed or altered from any distribution.
+ *
+ *   4. The names of this software and/or it's copyright holders may not be
+ *   used to endorse or promote products derived from this software without
+ *   specific prior written permission.
+
+
+
+
+******* license for AP-Ultra & LZSA crunchers ****************************
+
+
+
+ * apultra.c - command line compression utility for the apultra library
+ * Copyright (C) 2019 Emmanuel Marty
+ *          https://github.com/emmanuel-marty
+ *
+ LZSA code use Zlib license
+ Match finder use CC0 license due to using portions of code from Eric Bigger's
+                                  Wimlib in the suffix array-based matchfinder
+ *
+ * This software is provided 'as-is', without any express or implied
+ * warranty.  In no event will the authors be held liable for any damages
+ * arising from the use of this software.
+ *
+ * Permission is granted to anyone to use this software for any purpose,
+ * including commercial applications, and to alter it and redistribute it
+ * freely, subject to the following restrictions:
+ *
+ * 1. The origin of this software must not be misrepresented; you must not
+ *    claim that you wrote the original software. If you use this software
+ *    in a product, an acknowledgment in the product documentation would be
+ *    appreciated but is not required.
+ * 2. Altered source versions must be plainly marked as such, and must not be
+ *    misrepresented as being the original software.
+ * 3. This notice may not be removed or altered from any source distribution.
+ *
+ * Uses the libdivsufsort library Copyright (c) 2003-2008 Yuta Mori
+ *
+ * Inspired by cap by Sven-Ake Dahl. https://github.com/svendahl/cap
+ * Also inspired by Charles Bloom's compression blog. http://cbloomrants.blogspot.com/
+ * With ideas from LZ4 by Yann Collet. https://github.com/lz4/lz4
+ * With help and support from spke <zxintrospec@gmail.com>
+
+
+
+
+*** license for CDT export (record11() function and some other code extracts) ***
+
+
+
+Author: CNGSoft http://cngsoft.no-ip.org , the tool is in GPL2 licence,
+Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org
